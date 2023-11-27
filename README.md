@@ -7,3 +7,4 @@ Notes is a platform made for everyone, irrespective of age or location. This pla
 Additionally, this application incorporates an authentication system. Once a user is authenticated, they can create their own personalized notes card. They have the freedom to update it whenever necessary and delete it if desired.
 
 
+
